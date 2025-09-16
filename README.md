@@ -52,16 +52,11 @@
 
 ## 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-Anurag%20Mishra-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anurag-mishra-28b3b6251/)/"><img src="https://img.shields.io/badge/-Anurag%20Mishra-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:am20anuragmishra@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/fanish20"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=fanish20&icon=0&color=0" alt="Profile Visit Counter">
-</p>
-
----
-✨ *Proudly created with ❤️ using [GPRM](https://gprm.itsvg.in)*  
+ 
